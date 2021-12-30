@@ -1,0 +1,9 @@
+body{
+    font-family: 'Bitter', serif;
+}
+h1{
+    font-size: 50px;
+}
+.name-highlight{
+    color: #FF4500;
+}
